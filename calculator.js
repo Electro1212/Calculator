@@ -17,7 +17,7 @@ buttons.map( buttons =>{
                 try{
                 display.innerText = eval(display.innerText);
                 }catch {
-                    display.innerText = 'Buir asbe bokachoda';
+                    display.innerText = 'Kerrkom Chele Re';
                 }
 
                 break;
